@@ -1,3 +1,6 @@
 [submodule "vim-bufsurf"]
 	path = vim-bufsurf
 	url = https://github.com/ton/vim-bufsurf
+[submodule "tmux-config"]
+	path = tmux-config
+	url = git://github.com/pivotal/tmux-config.git
