@@ -1,0 +1,3 @@
+[submodule "vim-bufsurf"]
+	path = vim-bufsurf
+	url = https://github.com/ton/vim-bufsurf
