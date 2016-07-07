@@ -1,9 +1,9 @@
 [submodule "vim-bufsurf"]
 	path = vim-bufsurf
-	url = https://github.com/ton/vim-bufsurf
+	url = https://github.com/ton/vim-bufsurf.git
 [submodule "tmux-config"]
 	path = tmux-config
 	url = git://github.com/pivotal/tmux-config.git
-[submodule "vim-gitgutter"]
-	path = vim-gitgutter
-	url = git@github.com:airblade/vim-gitgutter.git
+[submodule "vim-yardoc"]
+	path = vim-yardoc
+	url = git@github.com:noprompt/vim-yardoc.git
