@@ -7,3 +7,6 @@
 [submodule "vim-yardoc"]
 	path = vim-yardoc
 	url = git@github.com:noprompt/vim-yardoc.git
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = git@github.com:tpope/vim-bundler.git
