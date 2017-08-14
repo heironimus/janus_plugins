@@ -7,4 +7,4 @@ To use:
   * `git submodule update`
 
 To add a new plugin
-* `git add submodule git@github.com:name/repo.git`
+* `git submodule add git@github.com:name/repo.git`
